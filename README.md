@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Brenton Hershner</h1>
-<!-- <p align="center">Former Mechanical Engineer and Product Manager turned Software Engineer.</p>
-<p align="center">I traded in nuts and bolts for bits and bytes.</p> -->
+<p align="center">Former Mechanical Engineer and Product Manager turned Software Engineer.</p>
+<p align="center">I traded in nuts and bolts for bits and bytes.</p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brentonhershner" alt="brentonhershner" /></a> </p> -->
 
@@ -109,15 +109,57 @@
 - 👨‍💻 **Mechanical Design Engineer -> Product Manager**\
 📆 2013 - 2021\
 📍 **OPW** - Cincinnati, Ohio
+<details>
+  <summary>Details</summary>
+    <ul>
+  <li>
+  Responsible for an $80M product line. Brought products from conceptual stages through entire product life cycle. Led an effort to rationalize the product line by obsoleting poor performing products. This led to a year-over-year increase in profits in 2020 even as revenue fell as a result of the coronavirus pandemic.
+    </li>
+  <li>
+  Granted two patents (a third is pending). Placed twice and won once in an annual innovation competition. Redesigned a new product which reduced the part cost by 2/3rds.
+  </li>
+  </ul>
+</details>
+
+&nbsp;
+
 
 - 👨‍💻 **Lead Electrical Engineer / Mechanical Engineer**\
 📆 2010 - 2013\
 📍 **Ferno-Washington** - Wilmington, Ohio
+<details>
+  <summary>Details</summary>
+    <ul>
+  <li>
+Successfully reduced the electromagnetic interference (EMI) of strained electric motors to compliant levels for a medical device with no prior experience in EMI. Designed the interoperability between components and managed vendors’ development to ensure functionality.
+  </li>
+  <li>
+  Designed electronic plastic enclosures, assemblies, and wire harnesses to which met all relevant FDA requirements including IEC 60601-1, IEC 61960, IEC 60204-1, and UL 2054.
+    </li>
+  </ul>
+</details>
 
+&nbsp;
 
 - 👨‍💻 **Mechanical Design Engineer**\
 📆 2008 - 2010\
 📍 **Weastec** - Dublin, Ohio
+<details>
+  <summary>Details</summary>
+  <ul>
+  <li>
+  Designed interior switches with user facing A-surfaces and precise illumination to control sliding doors, windows, locks, and other accessories for Honda and Acura vehicles.
+  </li>
+  <li>
+  Developing plastic injection molded parts, stampings, PCBs and connectors.
+  </li>
+  <li>
+  Specialized in light pipes and lenses for even and distributed backlight illumination.
+  </li>
+  </ul>
+</details>
+
+&nbsp;
 
 <!--
 **BrentonHershner/BrentonHershner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
