@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Brenton Hershner</h1>
-<p align="center">Former Mechanical Engineer and Product Manager turned Software Engineer.</p>
-<p align="center">I traded in nuts and bolts for bits and bytes.</p>
+<!-- <p align="center">Former Mechanical Engineer and Product Manager turned Software Engineer.</p>
+<p align="center">I traded in nuts and bolts for bits and bytes.</p> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brentonhershner" alt="brentonhershner" /></a> </p> -->
 
