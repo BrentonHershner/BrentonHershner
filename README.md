@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=brentonhershner&show_icons=true&count_private=true&theme=dark&locale=en" alt="brentonhershner" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=brentonhershner&show_icons=true&count_private=true&theme=dark&locale=en" alt="brentonhershner" />
 </p>
 
 ## Skills
