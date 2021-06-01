@@ -127,12 +127,11 @@
 
 <details>
   <summary>
-<b>👨‍💻 Mechanical Design Engineer -> Product Manager</b>
+  <b>👨‍💻 Mechanical Design Engineer -> Product Manager</b>
   </summary>
 📆 2013 - 2021
-<li><b>📍 OPW</b> - Cincinnati, Ohio</li>
 
-  Details
+📍 <b>OPW</b> - Cincinnati, Ohio
   <ul>
     <li>
     Responsible for an $80M product line. Brought products from conceptual stages through entire product life cycle. Led an effort to rationalize the product line by obsoleting poor performing products. This led to a year-over-year increase in profits in 2020 even as revenue fell as a result of the coronavirus pandemic.
@@ -147,8 +146,7 @@
   <summary>
 👨‍💻 <b>Lead Electrical Engineer / Mechanical Engineer</b>
   </summary>
-
-📆 2010 - 2013\
+📆 2010 - 2013
 
 📍 <b>Ferno-Washington</b> - Wilmington, Ohio
 
@@ -164,7 +162,6 @@
 
 <details>
   <summary><b>👨‍💻 Mechanical Design Engineer</b></summary>
-
   📆 2008 - 2010
 
 📍 <b>Weastec</b> - Dublin, Ohio
