@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brentonhershner&show_icons=true&count_private=true&theme=dark&locale=en" alt="brentonhershner" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=brentonhershner&show_icons=true&count_private=true&theme=dark&locale=en" alt="brentonhershner" /> -->
 </p>
 
 ## Skills
@@ -89,63 +89,86 @@
 </p>
 
 ## Education
+<details>
+<summary>
+<b>📖 Full Stack Software Engineering</b>
+</summary>
+<ul>
+<li>📆 2021 - 2021</li>
 
-- 📖 **Full Stack Software Engineering**\
-📆 2021 - 2021\
-📍 **Hack Reactor** - Seattle Campus
+<li>📍 Hack Reactor - Seattle Campus</li>
+</ul>
+</details>
 
-- 📖 **Master's Degree Business Administration**\
-📆 2017 - 2019\
-📍 **Miami University** - Oxford, Ohio
+<details>
+<summary>
+<b>📖 Master's Degree Business Administration</b>
+</summary>
+<ul>
+<li>📆 2017 - 2019</li>
 
-- 📖 **Bachelor's Degree Mechanical Engineering**\
-📆 2003 - 2008\
-📍 **The Ohio State University** - Columbus, Ohio
+<li><b>📍 Miami University</b> - Oxford, Ohio</li>
+</ul>
+</details>
 
 
+<details>
+<summary>
+<b>📖 Bachelor's Degree Mechanical Engineering</b>
+</summary>
+<ul>
+<li>📆 2003 - 2008</li>
+
+<li><b>📍 The Ohio State University</b> - Columbus, Ohio</li>
+</ul>
+</details>
 
 ## Experience
 
-- 👨‍💻 **Mechanical Design Engineer -> Product Manager**\
-📆 2013 - 2021\
-📍 **OPW** - Cincinnati, Ohio
 <details>
-  <summary>Details</summary>
-    <ul>
-  <li>
-  Responsible for an $80M product line. Brought products from conceptual stages through entire product life cycle. Led an effort to rationalize the product line by obsoleting poor performing products. This led to a year-over-year increase in profits in 2020 even as revenue fell as a result of the coronavirus pandemic.
+  <summary>
+<b>👨‍💻 Mechanical Design Engineer -> Product Manager</b>
+  </summary>
+📆 2013 - 2021
+<li><b>📍 OPW</b> - Cincinnati, Ohio</li>
+
+  Details
+  <ul>
+    <li>
+    Responsible for an $80M product line. Brought products from conceptual stages through entire product life cycle. Led an effort to rationalize the product line by obsoleting poor performing products. This led to a year-over-year increase in profits in 2020 even as revenue fell as a result of the coronavirus pandemic.
     </li>
-  <li>
-  Granted two patents (a third is pending). Placed twice and won once in an annual innovation competition. Redesigned a new product which reduced the part cost by 2/3rds.
-  </li>
+    <li>
+    Granted two patents (a third is pending). Placed twice and won once in an annual innovation competition. Redesigned a new product which reduced the part cost by 2/3rds.
+    </li>
   </ul>
 </details>
 
-&nbsp;
+<details>
+  <summary>
+👨‍💻 <b>Lead Electrical Engineer / Mechanical Engineer</b>
+  </summary>
 
-
-- 👨‍💻 **Lead Electrical Engineer / Mechanical Engineer**\
 📆 2010 - 2013\
-📍 **Ferno-Washington** - Wilmington, Ohio
-<details>
-  <summary>Details</summary>
-    <ul>
-  <li>
-Successfully reduced the electromagnetic interference (EMI) of strained electric motors to compliant levels for a medical device with no prior experience in EMI. Designed the interoperability between components and managed vendors’ development to ensure functionality.
-  </li>
-  <li>
-  Designed electronic plastic enclosures, assemblies, and wire harnesses to which met all relevant FDA requirements including IEC 60601-1, IEC 61960, IEC 60204-1, and UL 2054.
+
+📍 <b>Ferno-Washington</b> - Wilmington, Ohio
+
+  <ul>
+    <li>
+      Successfully reduced the electromagnetic interference (EMI) of strained electric motors to compliant levels for a medical device with no prior experience in EMI. Designed the interoperability between components and managed vendors’ development to ensure functionality.
+    </li>
+    <li>
+    Designed electronic plastic enclosures, assemblies, and wire harnesses to which met all relevant FDA requirements including IEC 60601-1, IEC 61960, IEC 60204-1, and UL 2054.
     </li>
   </ul>
 </details>
 
-&nbsp;
-
-- 👨‍💻 **Mechanical Design Engineer**\
-📆 2008 - 2010\
-📍 **Weastec** - Dublin, Ohio
 <details>
-  <summary>Details</summary>
+  <summary><b>👨‍💻 Mechanical Design Engineer</b></summary>
+
+  📆 2008 - 2010
+
+📍 <b>Weastec</b> - Dublin, Ohio
+
   <ul>
   <li>
   Designed interior switches with user facing A-surfaces and precise illumination to control sliding doors, windows, locks, and other accessories for Honda and Acura vehicles.
