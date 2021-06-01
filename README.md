@@ -144,7 +144,7 @@
 
 <details>
   <summary>
-👨‍💻 <b>Lead Electrical Engineer / Mechanical Engineer</b>
+👨‍💻 <b>Mechanical Engineer -> Lead Electrical Engineer</b>
   </summary>
 📆 2010 - 2013
 
@@ -152,10 +152,10 @@
 
   <ul>
     <li>
-      Successfully reduced the electromagnetic interference (EMI) of strained electric motors to compliant levels for a medical device with no prior experience in EMI. Designed the interoperability between components and managed vendors’ development to ensure functionality.
+    Designed electronic plastic enclosures, assemblies, and wire harnesses to which met all relevant FDA requirements including IEC 60601-1, IEC 61960, IEC 60204-1, and UL 2054.
     </li>
     <li>
-    Designed electronic plastic enclosures, assemblies, and wire harnesses to which met all relevant FDA requirements including IEC 60601-1, IEC 61960, IEC 60204-1, and UL 2054.
+      Successfully reduced the electromagnetic interference (EMI) of strained electric motors to compliant levels for a medical device with no prior experience in EMI. Designed the interoperability between components and managed vendors’ development to ensure functionality.
     </li>
   </ul>
 </details>
