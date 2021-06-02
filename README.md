@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:brentonhershner@gmail.com" />
 </a> &nbsp;
 
-<a href="https://storage.googleapis.com/www.brentonhershner.com/v02_BrentonHershnerResume.pdf" target="blank">
+<a href="https://storage.googleapis.com/www.brentonhershner.com/Brenton_Hershner_Resume.pdf" target="blank">
 <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Brenton Hershner Resume" />
 </a>&nbsp;
 
