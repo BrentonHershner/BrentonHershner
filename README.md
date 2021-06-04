@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Brenton Hershner</h1>
-<p align="center">Former Mechanical Engineer and Product Manager turned Software Engineer.</p>
 <p align="center">I traded in nuts and bolts for bits and bytes.</p>
+<p align="center">Former Mechanical Engineer and Product Manager turned Software Engineer.</p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brentonhershner" alt="brentonhershner" /></a> </p> -->
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:brentonhershner@gmail.com" />
 </a> &nbsp;
 
-<a href="/resume/Brenton_Hershner_Resume.pdf" target="blank">
+<a href="BrentonHershner.github.io/resume/Brenton_Hershner_Resume.pdf" target="blank">
 <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Brenton Hershner Resume" />
 </a>&nbsp;
 
@@ -91,7 +91,7 @@
 ## Education
 <details>
 <summary>
-<b>📖 Full Stack Software Engineering</b>
+<strong>📖 Full Stack Software Engineering</strong>
 </summary>
 <ul>
 <li>📆 2021 - 2021</li>
@@ -102,24 +102,24 @@
 
 <details>
 <summary>
-<b>📖 Master's Degree Business Administration</b>
+<strong>📖 Master's Degree Business Administration</strong>
 </summary>
 <ul>
 <li>📆 2017 - 2019</li>
 
-<li><b>📍 Miami University</b> - Oxford, Ohio</li>
+<li><strong>📍 Miami University</strong> - Oxford, Ohio</li>
 </ul>
 </details>
 
 
 <details>
 <summary>
-<b>📖 Bachelor's Degree Mechanical Engineering</b>
+<strong>📖 Bachelor's Degree Mechanical Engineering</strong>
 </summary>
 <ul>
 <li>📆 2003 - 2008</li>
 
-<li><b>📍 The Ohio State University</b> - Columbus, Ohio</li>
+<li><strong>📍 The Ohio State University</strong> - Columbus, Ohio</li>
 </ul>
 </details>
 
@@ -127,11 +127,11 @@
 
 <details>
   <summary>
-  <b>👨‍💻 Mechanical Design Engineer -> Product Manager</b>
+  <strong>👨‍💻 Mechanical Design Engineer -> Product Manager</strong>
   </summary>
 📆 2013 - 2021
 
-📍 <b>OPW</b> - Cincinnati, Ohio
+📍 <strong>OPW</strong> - Cincinnati, Ohio
   <ul>
     <li>
     Responsible for an $80M product line. Brought products from conceptual stages through entire product life cycle. Led an effort to rationalize the product line by obsoleting poor performing products. This led to a year-over-year increase in profits in 2020 even as revenue fell as a result of the coronavirus pandemic.
@@ -144,11 +144,11 @@
 
 <details>
   <summary>
-👨‍💻 <b>Mechanical Engineer -> Lead Electrical Engineer</b>
+👨‍💻 <strong>Mechanical Engineer -> Lead Electrical Engineer</strong>
   </summary>
 📆 2010 - 2013
 
-📍 <b>Ferno-Washington</b> - Wilmington, Ohio
+📍 <strong>Ferno-Washington</strong> - Wilmington, Ohio
 
   <ul>
     <li>
@@ -161,10 +161,10 @@
 </details>
 
 <details>
-  <summary><b>👨‍💻 Mechanical Design Engineer</b></summary>
+  <summary><strong>👨‍💻 Mechanical Design Engineer</strong></summary>
   📆 2008 - 2010
 
-📍 <b>Weastec</b> - Dublin, Ohio
+📍 <strong>Weastec</strong> - Dublin, Ohio
 
   <ul>
   <li>
