@@ -38,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=brentonhershner&show_icons=true&count_private=true&theme=dark&locale=en" alt="brentonhershner" />
 </p>
 
-## Skills
+<!-- ## Skills
 
 <p align = "center">
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -86,7 +86,7 @@
 <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-</p>
+</p> -->
 
 ## Education
 <details>
