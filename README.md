@@ -88,95 +88,127 @@
 
 </p> -->
 
-## Education
-<details open>
-<summary>
-<strong>📖 Full Stack Software Engineering</strong>
-</summary>
-<ul>
-<li>📆 2021 - 2021</li>
-
-<li>📍 Hack Reactor - Seattle Campus</li>
-</ul>
-</details>
-
-<details open>
-<summary>
-<strong>📖 Master's Degree Business Administration</strong>
-</summary>
-<ul>
-<li>📆 2017 - 2019</li>
-
-<li><strong>📍 Miami University</strong> - Oxford, Ohio</li>
-</ul>
-</details>
-
-
-<details open>
-<summary>
-<strong>📖 Bachelor's Degree Mechanical Engineering</strong>
-</summary>
-<ul>
-<li>📆 2003 - 2008</li>
-
-<li><strong>📍 The Ohio State University</strong> - Columbus, Ohio</li>
-</ul>
-</details>
-
 ## Experience
 
 <details open>
   <summary>
-  <strong>👨‍💻 Mechanical Design Engineer -> Product Manager</strong>
+  <strong>Software Engineer Immersive Resident</strong>
   </summary>
-📆 2013 - 2021
+2021 - 2021
 
-📍 <strong>OPW</strong> - Cincinnati, Ohio
+<strong>Hack Reactor</strong> - Seattle, Washington
   <ul>
     <li>
-    Responsible for product lines totally $80M in annual revenue. Brought products from conceptual stages through entire product life cycle.
+    Instructed and guided troubleshooting to 500+ full-stack web development software engineering students.
     </li>
     <li>
-    Granted two patents (a third is pending). Placed twice and won once in an annual innovation competition. Redesigned a new product which reduced the part cost by 2/3rds.
+    Held office hours to give one-on-one help to students’ specializing in VS Code, testing, and SQL query issues.
+    </li>
+    <li>
+    Facilitated stand-up meetings. Planed and ran social events and encouraged student engagement.
     </li>
   </ul>
 </details>
 
 <details open>
   <summary>
-👨‍💻 <strong>Mechanical Engineer -> Lead Electrical Engineer</strong>
+  <strong>Mechanical Design Engineer,</strong> Promoted to <strong>Product Manager</strong>
   </summary>
-📆 2010 - 2013
+2013 - 2021
 
-📍 <strong>Ferno-Washington</strong> - Wilmington, Ohio
+<strong>OPW</strong> - Cincinnati, Ohio
+  <ul>
+    <li>
+    Redesigned a gasoline nozzle with fewer components than original at 1/3 the cost of the original design.
+    </li>
+    <li>
+    Hold two patents for a dripless gasoline nozzle installed at every Costco location in the US and an automatic latching technology used on hydrogen and compressed natural gas nozzles.
+    </li>
+    <li>
+    Responsible for over 2,000 skus totally $80M in annual revenue. Brought products from conceptual stages through entire product life cycle.
+    </li>
+    <li>
+    Won an innovation competition with a prototype of an electronically operated gasoline nozzle to improve reliability, safety, and record and report usage data.
+    </li>
+    <li>
+    Led an effort to rationalize product lines by obsoleting poor performing products, resulting in a year over year profit increase despite lower revenue during the pandemic.
+    </li>
+    <li>
+    Developed and distributed a dashboard of sales performance using Power BI generated with SQL queries.
+    </li>
+  </ul>
+</details>
+
+<details open>
+  <summary>
+<strong>Mechanical Engineer,</strong> Promoted to <strong>Lead Electrical Engineer</strong>
+  </summary>
+2011 - 2013
+
+<strong>Ferno-Washington</strong> - Wilmington, Ohio
 
   <ul>
     <li>
     Designed electronic plastic enclosures, assemblies, and wire harnesses to which met all relevant FDA requirements including IEC 60601-1, IEC 61960, IEC 60204-1, and UL 2054.
     </li>
     <li>
-      Successfully reduced the electromagnetic interference (EMI) of strained electric motors to compliant levels for a medical device with no prior experience in EMI. Designed the interoperability between components and managed vendors’ development to ensure functionality.
+    Successfully reduced the electromagnetic interference (EMI) of strained electric motors to compliant levels for a medical device. Designed the CAN bus protocol between components and managed vendors’ development to ensure functionality.
     </li>
   </ul>
 </details>
 
 <details open>
-  <summary><strong>👨‍💻 Mechanical Design Engineer</strong></summary>
-  📆 2008 - 2010
+  <summary><strong>Mechanical Design Engineer</strong></summary>
+  2008 - 2011
 
-📍 <strong>Weastec</strong> - Dublin, Ohio
+<strong>Weastec</strong> - Dublin, Ohio
 
   <ul>
-  <li>
-  Designed interior switches with user facing A-surfaces and precise illumination to control sliding doors, windows, locks, and other accessories for Honda and Acura vehicles.
-  </li>
-  <li>
-  Developing plastic injection molded parts, stampings, PCBs and connectors.
-  </li>
-  <li>
-  Specialized in light pipes and lenses for even and distributed backlight illumination.
-  </li>
+    <li>
+    Designed interior switches with user facing A-surfaces and precise illumination to control sliding doors, windows, locks, and other accessories for Honda and Acura vehicles.
+    </li>
+    <li>
+    Developing plastic injection molded parts, stampings, PCBs and connectors.
+    </li>
+    <li>
+    Specialized in light pipes and lenses for even and distributed backlight illumination.
+    </li>
   </ul>
+</details>
+
+## Education
+<details open>
+<summary>
+<strong>Full Stack Software Engineering</strong>
+</summary>
+<ul>
+<li>2021 - 2021</li>
+
+<li>Hack Reactor - Seattle Campus</li>
+</ul>
+</details>
+
+<details open>
+<summary>
+<strong>Master's Degree Business Administration</strong>
+</summary>
+<ul>
+<li>2017 - 2019</li>
+
+<li><strong>Miami University</strong> - Oxford, Ohio</li>
+</ul>
+</details>
+
+
+<details open>
+<summary>
+<strong>Bachelor's Degree Mechanical Engineering</strong>
+</summary>
+<ul>
+<li>2003 - 2008</li>
+
+<li><strong>The Ohio State University</strong> - Columbus, Ohio</li>
+</ul>
 </details>
 
 &nbsp;
