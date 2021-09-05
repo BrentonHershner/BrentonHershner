@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:brentonhershner@gmail.com" />
 </a> &nbsp;
 
-<a href="BrentonHershner.github.io/resume/Brenton_Hershner_Resume.pdf" target="blank">
+<a href="https://brentonhershner.com/resume.pdf" target="blank">
 <img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Brenton Hershner Resume" />
 </a>&nbsp;
 
@@ -89,7 +89,7 @@
 </p> -->
 
 ## Education
-<details>
+<details open>
 <summary>
 <strong>📖 Full Stack Software Engineering</strong>
 </summary>
@@ -100,7 +100,7 @@
 </ul>
 </details>
 
-<details>
+<details open>
 <summary>
 <strong>📖 Master's Degree Business Administration</strong>
 </summary>
@@ -112,7 +112,7 @@
 </details>
 
 
-<details>
+<details open>
 <summary>
 <strong>📖 Bachelor's Degree Mechanical Engineering</strong>
 </summary>
@@ -125,7 +125,7 @@
 
 ## Experience
 
-<details>
+<details open>
   <summary>
   <strong>👨‍💻 Mechanical Design Engineer -> Product Manager</strong>
   </summary>
@@ -134,7 +134,7 @@
 📍 <strong>OPW</strong> - Cincinnati, Ohio
   <ul>
     <li>
-    Responsible for an $80M product line. Brought products from conceptual stages through entire product life cycle. Led an effort to rationalize the product line by obsoleting poor performing products. This led to a year-over-year increase in profits in 2020 even as revenue fell as a result of the coronavirus pandemic.
+    Responsible for product lines totally $80M in annual revenue. Brought products from conceptual stages through entire product life cycle.
     </li>
     <li>
     Granted two patents (a third is pending). Placed twice and won once in an annual innovation competition. Redesigned a new product which reduced the part cost by 2/3rds.
@@ -142,7 +142,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>
 👨‍💻 <strong>Mechanical Engineer -> Lead Electrical Engineer</strong>
   </summary>
@@ -160,7 +160,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><strong>👨‍💻 Mechanical Design Engineer</strong></summary>
   📆 2008 - 2010
 
