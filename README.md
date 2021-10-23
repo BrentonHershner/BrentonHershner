@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Brenton Hershner</h1>
-<p align="center">I traded in nuts and bolts for bits and bytes.</p>
+<!-- <p align="center">I traded in nuts and bolts for bits and bytes.</p> -->
 <p align="center">Former Mechanical Engineer and Product Manager turned Software Engineer.</p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brentonhershner" alt="brentonhershner" /></a> </p> -->
@@ -12,15 +12,11 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:brentonhershner@gmail.com" />
 </a> &nbsp;
 
-<a href="https://brentonhershner.com/resume.pdf" target="blank">
-<img src="https://img.shields.io/badge/-Resume-green?style=for-the-badge" alt="Brenton Hershner Resume" />
-</a>&nbsp;
-
 <a href="https://www.linkedin.com/in/brenton-hershner/" target="blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Brenton Hershner LinkedIn" />
 </a>&nbsp;
 
-<a href="https://instagram.com/brenthersh/" target="blank">
+<!-- <a href="https://instagram.com/brenthersh/" target="blank">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Brenton Hershner Instagram" />
 </a>&nbsp;
 
@@ -30,7 +26,7 @@
 
 <a href="#">
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=BrentonHershner.BrentonHershner&style=for-the-badge">
-</a>&nbsp;
+</a>&nbsp; -->
 
 </p>
 
@@ -88,7 +84,7 @@
 
 </p> -->
 
-## Experience
+<!-- ## Experience
 
 <details open>
   <summary>
@@ -211,7 +207,7 @@
 </ul>
 </details>
 
-&nbsp;
+&nbsp; -->
 
 <!--
 **BrentonHershner/BrentonHershner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
