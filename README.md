@@ -8,9 +8,9 @@
 
 <p align="center">
 
-<a href="mailto:brentonhershner@gmail.com" target="blank">
+<!-- <a href="mailto:brentonhershner@gmail.com" target="blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:brentonhershner@gmail.com" />
-</a> &nbsp;
+</a> &nbsp; -->
 
 <a href="https://www.linkedin.com/in/brenton-hershner/" target="blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Brenton Hershner LinkedIn" />
@@ -30,9 +30,9 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=brentonhershner&show_icons=true&count_private=true&theme=dark&locale=en" alt="brentonhershner" />
-</p>
+</p> -->
 
 <!-- ## Skills
 
